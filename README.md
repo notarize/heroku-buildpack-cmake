@@ -1,4 +1,6 @@
-# heroku-buildpack-cmake
+# heroku-buildpack-cmake (Notarize flavored)
+
+This is a Notarize fork of a CMake buildpack.
 
 Yet another [Heroku Buildpack][Buildpacks] for [CMake](https://cmake.org/), but this one downloads CMake from the official website, [cmake.org](https://cmake.org/download/).
 
